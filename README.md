@@ -1,7 +1,7 @@
 ## Hi there is Prathamesh 👋
 - 💻 MCA Student | Java & Web Development
 - 🚀 Interested in Front-End and Data Analyst
-- 
+  
 **XPrathamesh96k/XPrathamesh96k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - Implemented exception handling, data validation, and secure user authentication.
 
-
+---
  ##**Technical Skills** :- Java, Python, HTML, CSS, SQL, MySQL, C++
 
  
