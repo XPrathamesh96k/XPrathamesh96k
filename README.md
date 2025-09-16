@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 - Implemented exception handling, data validation, and secure user authentication.
 
 ---
- **Technical Skills** :- Java, Python, HTML, CSS, SQL, MySQL, C++
+ **Technical Skills** :-
+ -
+ Java, Python, HTML, CSS, SQL, MySQL, C++
 
 ---
  
