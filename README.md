@@ -16,8 +16,8 @@ Here are some ideas to get you started:
  -
  ---
  
-**-Project-** :-
-
+**Project** :-
+-
 - Technologies used : C# (Backend), ASP.NET (Frontend), SQL Server(Database)
 
 - Developed a desktop-based Car Rental Management System to manage end-to-end operations including Car Details, Customer Details, Driver  Details, Driver Payment, Customer
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Implemented exception handling, data validation, and secure user authentication.
 
 ---
- ##**Technical Skills** :- Java, Python, HTML, CSS, SQL, MySQL, C++
+ **Technical Skills** :- Java, Python, HTML, CSS, SQL, MySQL, C++
 
 ---
  
