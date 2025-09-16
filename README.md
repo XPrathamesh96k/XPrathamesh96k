@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ---
  ##**Technical Skills** :- Java, Python, HTML, CSS, SQL, MySQL, C++
 
+---
  
  ##**CERTIFICATIONS**:-
  
