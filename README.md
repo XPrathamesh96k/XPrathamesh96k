@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Analyst
 - 💬 Ask me about Java, HTML& CSS, Python, C++, SQL
 - 📫 How to reach me: LinkedIn-https://www.linkedin.com/in/prathamesh-gaikwad-57644b233
+                      Primary Email-gprathamesh010@gmail.com
+                      Secondary Email-prathameshgaikwad010@gmail.com
 ---
 **Summary** :-
 -
