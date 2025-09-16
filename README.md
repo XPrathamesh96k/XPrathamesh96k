@@ -1,7 +1,7 @@
 ## Hi there is Prathamesh 👋
 - 💻 MCA Student | Java & Web Development
 - 🚀 Interested in Front-End and Data Analyst
-<!--
+- 
 **XPrathamesh96k/XPrathamesh96k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Analyst
 - 💬 Ask me about Java, HTML& CSS, Python, C++, SQL
 - 📫 How to reach me: LinkedIn-https://www.linkedin.com/in/prathamesh-gaikwad-57644b233
--->
+
 **Summary** :-
  Motivated and detail-oriented MCA student with database management and web technologies. Seeking a challenging role in a dynamic organization where I can apply my technical  skills, enhance my knowledge, and contribute to innovative projects while growing professionally in the field of IT. Quick learner with problem-solving and debugging skills.
  
