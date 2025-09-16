@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **Project** :-
  Technologies used : C# (Backend), ASP.NET (Frontend), SQL Server(Database)
  
--Developed a desktop-based Car Rental Management System to manage end-to-end operations including Car Details, Customer Details, Driver Details, Driver Payment, Customer
+-Developed a desktop-based Car Rental Management System to manage end-to-end operations including Car Details, Customer Details, Driver  Details, Driver Payment, Customer
  Payment, Booking and Cancellation. 
  
 -Developed backend logic for all core functionalities and SQL server for data storage.
