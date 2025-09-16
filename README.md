@@ -16,17 +16,24 @@ Here are some ideas to get you started:
  
 **Project** :-
  Technologies used : C# (Backend), ASP.NET (Frontend), SQL Server(Database)
+ 
 -Developed a desktop-based Car Rental Management System to manage end-to-end operations including Car Details, Customer Details, Driver Details, Driver Payment, Customer
  Payment, Booking and Cancellation. 
+ 
 -Developed backend logic for all core functionalities and SQL server for data storage.
+
 -Created stored procedures and triggers for efficient data operations and business rules.
+
 -Implemented exception handling, data validation, and secure user authentication.
 
+
  **Technical Skills** :- Java, Python, HTML, CSS, SQL, MySQL, C++
+
  
- **CERTIFICATIONS**
+ **CERTIFICATIONS**:-
  
  -Completed a Java Programming Course organized by the FUEL Foundation. 
+ 
  -Successfully completed the training in Cybersecurity Analyst Job Simulation held by TATA Forage. 
  
  -Successfully completed the training in Developer and Technology Job Simulation held by Accenture Forage. 
