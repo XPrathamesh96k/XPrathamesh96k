@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, HTML& CSS, Python, C++, SQL
 - 📫 How to reach me: LinkedIn-https://www.linkedin.com/in/prathamesh-gaikwad-57644b233
 
-**Summary** :-
+##**Summary** :-
  Motivated and detail-oriented MCA student with database management and web technologies. Seeking a challenging role in a dynamic organization where I can apply my technical  skills, enhance my knowledge, and contribute to innovative projects while growing professionally in the field of IT. Quick learner with problem-solving and debugging skills.
  
-**Project** :-
+##**Project** :-
 
  Technologies used : C# (Backend), ASP.NET (Frontend), SQL Server(Database)
  
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 -Implemented exception handling, data validation, and secure user authentication.
 
 
- **Technical Skills** :- Java, Python, HTML, CSS, SQL, MySQL, C++
+ ##**Technical Skills** :- Java, Python, HTML, CSS, SQL, MySQL, C++
 
  
- **CERTIFICATIONS**:-
+ ##**CERTIFICATIONS**:-
  
  -Completed a Java Programming Course organized by the FUEL Foundation. 
  
