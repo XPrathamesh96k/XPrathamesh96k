@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ---
  
- ##**CERTIFICATIONS**:-
- 
+ **CERTIFICATIONS**:-
+ -
 - Completed a Java Programming Course organized by the FUEL Foundation. 
  
 - Successfully completed the training in Cybersecurity Analyst Job Simulation held by TATA Forage. 
