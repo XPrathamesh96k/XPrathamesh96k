@@ -15,6 +15,7 @@ Here are some ideas to get you started:
  Motivated and detail-oriented MCA student with database management and web technologies. Seeking a challenging role in a dynamic organization where I can apply my technical  skills, enhance my knowledge, and contribute to innovative projects while growing professionally in the field of IT. Quick learner with problem-solving and debugging skills.
  
 **Project** :-
+
  Technologies used : C# (Backend), ASP.NET (Frontend), SQL Server(Database)
  
 -Developed a desktop-based Car Rental Management System to manage end-to-end operations including Car Details, Customer Details, Driver  Details, Driver Payment, Customer
