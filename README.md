@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  -
  ---
  
-#**Project** :-
+**-Project-** :-
 
 - Technologies used : C# (Backend), ASP.NET (Frontend), SQL Server(Database)
 
