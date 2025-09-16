@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - Successfully completed the training in Developer and Technology Job Simulation held by Accenture Forage. 
  
 - Successfully completed the training in Data Analyst Job Simulation held by Quantium Forage.
-  -
+  --
   
   **Summary** :-
   ---
