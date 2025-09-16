@@ -1,6 +1,6 @@
 ## Hi there is Prathamesh 👋
 - 💻 MCA Student | Java & Web Development
-- 🚀 Interested in Front-End and Data Analyst
+- 🚀 Interested in Web Developer and Data Analyst
   
 **XPrathamesh96k/XPrathamesh96k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
