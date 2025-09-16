@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn-https://www.linkedin.com/in/prathamesh-gaikwad-57644b233
 -->
  CERTIFICATIONS
+ 
  Completed a Java Programming Course organized by the FUEL Foundation. 
 Successfully completed the training in Cybersecurity Analyst Job Simulation held by TATA
  Forage. 
