@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn-https://www.linkedin.com/in/prathamesh-gaikwad-57644b233
 ---
 **Summary** :-
+-
  Motivated and detail-oriented MCA student with database management and web technologies. Seeking a challenging role in a dynamic organization where I can apply my technical  skills, enhance my knowledge, and contribute to innovative projects while growing professionally in the field of IT. Quick learner with problem-solving and debugging skills.
- -
+
  ---
  
 **Project** :-
